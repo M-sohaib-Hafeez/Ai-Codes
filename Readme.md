@@ -1,6 +1,6 @@
-# 🤖 AI & ML Exam Preparation — Python Code Lab
+# 🤖 AI & ML — Python Code 
 
-> A structured collection of Machine Learning algorithms and Python library demos, built for DUET CS-310 (Artificial Intelligence) exam preparation.
+> A structured collection of Machine Learning algorithms and Python library demos, built for Practice (Artificial Intelligence)
 
 ---
 
@@ -92,12 +92,12 @@ python Python-Libraries-Code/SkLearnCode.py
 From `pyproject.toml`:
 
 ```toml
-matplotlib >= 3.10.9
-numpy >= 2.4.6
-pandas-stubs ~= 3.0.3
-scikit-learn >= 1.9.0
-seaborn >= 0.13.2
-reportlab >= 4.5.1
+matplotlib>=3.10.9
+numpy>=2.4.6
+pandas-stubs~=3.0.3
+scikit-learn>=1.9.0
+seaborn>=0.13.2
+reportlab>=4.5.1
 ```
 
 ---
