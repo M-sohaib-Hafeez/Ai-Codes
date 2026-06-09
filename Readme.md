@@ -92,12 +92,12 @@ python Python-Libraries-Code/SkLearnCode.py
 From `pyproject.toml`:
 
 ```toml
-matplotlib>=3.10.9
-numpy>=2.4.6
-pandas-stubs~=3.0.3
-scikit-learn>=1.9.0
-seaborn>=0.13.2
-reportlab>=4.5.1
+matplotlib = ">=3.10.9"
+numpy = ">=2.4.6"
+pandas-stubs = "~=3.0.3"
+scikit-learn = ">=1.9.0"
+seaborn = ">=0.13.2"
+reportlab = ">=4.5.1"
 ```
 
 ---
